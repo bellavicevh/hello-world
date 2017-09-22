@@ -1,3 +1,2 @@
 # hello-world
-Learning how to use github
-Yipideedoodah.
+Learning how to use github, yipideedoodah!
